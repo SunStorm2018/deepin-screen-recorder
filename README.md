@@ -35,7 +35,7 @@ Below is keymap list for deepin-screen-recorder:
 ## Config file
 Configure file save at:
 ~/.config/deepin/deepin-screen-recorder/config.conf
-
+1111
 You can change default format for save file. 
 
 ## Getting help
